@@ -1,4 +1,15 @@
+1. 이벤트 스토밍 모델
 ![image](https://user-images.githubusercontent.com/131749030/237024782-1e5c8558-9e8f-4e54-a6da-59394e78b34b.png)
+
+
+2. saga
+
+3
+
+4
+
+
+
 
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
