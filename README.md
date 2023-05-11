@@ -22,6 +22,7 @@
 ![image](https://github.com/parkmjpark/example-food-delivery/assets/131749030/b26bcaaf-8cb7-4283-887a-2ccd533fb513)
 
 <변경>
+
 ![image](https://github.com/parkmjpark/example-food-delivery/assets/131749030/3b79af6c-cf0b-400a-9dd1-229da5b6a8e5)
 
 
