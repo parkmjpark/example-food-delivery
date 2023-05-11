@@ -1,12 +1,20 @@
 1. 이벤트 스토밍 모델
-![image](https://user-images.githubusercontent.com/131749030/237024782-1e5c8558-9e8f-4e54-a6da-59394e78b34b.png)
-
-
+![image](https://github.com/parkmjpark/example-food-delivery/assets/131749030/d7655910-d4b3-43dc-83a4-fcf216dfe564)
+---------------------------------------------------------------------------------------------------------------------------
 2. saga
-
-3
-
-4
+![image](https://github.com/parkmjpark/example-food-delivery/assets/131749030/542765b4-66a5-4198-a49d-32533f05cc88)
+![image](https://github.com/parkmjpark/example-food-delivery/assets/131749030/5de955eb-8e71-4b72-ad2f-9ef6a668e972)
+---------------------------------------------------------------------------------------------------------------------------
+3 CQRS
+![image](https://github.com/parkmjpark/example-food-delivery/assets/131749030/485febc5-0b6e-48c3-bd9a-8c420c4d013b)
+![image](https://github.com/parkmjpark/example-food-delivery/assets/131749030/41391a24-34bc-4c33-8b7c-929efffafb3d)
+---------------------------------------------------------------------------------------------------------------------------
+4 Compensation / Correlatio
+![image](https://github.com/parkmjpark/example-food-delivery/assets/131749030/623bc66c-5695-46b9-949a-970c9d080f00)
+<확인>
+![image](https://github.com/parkmjpark/example-food-delivery/assets/131749030/b26bcaaf-8cb7-4283-887a-2ccd533fb513)
+<변경>
+![image](https://github.com/parkmjpark/example-food-delivery/assets/131749030/3b79af6c-cf0b-400a-9dd1-229da5b6a8e5)
 
 
 
